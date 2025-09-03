@@ -35,7 +35,7 @@ I’m a passionate ninja developer 🥷 always driven by curiosity for technolog
 - SpaceTech Hackathon (2017)
 - IoT Hack (2018)
 - Global Hack Weekend (2018)
-- VIP 2 Acceleration (2022    
+- VIP 2 Acceleration (2022)
 - EO Acceleration (2022)
 - Demium Hackathon (2022)
 
