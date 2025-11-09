@@ -5,7 +5,7 @@ I’m a passionate ninja developer 🥷 always driven by curiosity for technolog
 ## 🚀 About Me
 - 🤖 Experienced chatbot & AI programmer
 - 🔗 Proven blockchain expertise
-- ⭐️ [Top-Rated](https://rebrand.ly/adellantado) Freelancer on Upwork
+- ⭐️ Top-Rated Freelancer on Upwork
 - 🎉 Nearly 20 years of software development experience
 - 👷 Built & launched 100+ apps
 - ⚡️ Currently building for **Hyperzap.io** and **Enta.ai**
